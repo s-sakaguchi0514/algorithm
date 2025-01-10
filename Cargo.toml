@@ -1,0 +1,10 @@
+[package]
+name = "algorithm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "bubble_sort"
+path = "src/bin/sort/bubble_sort/main.rs"
